@@ -1,1 +1,1 @@
-worker:node sbot.js
+worker: node sbot.js
