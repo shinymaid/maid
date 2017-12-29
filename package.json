@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "maid",
+  "description": "maid",
   "version": "0.0.0",
   "main": "sbot.js",
   "scripts": {
@@ -8,6 +8,5 @@
   },
   "dependencies": {
     "discord.js": "11.1.0",
-    "request": "2.81.0"
   }
 }
