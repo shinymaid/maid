@@ -1,12 +1,15 @@
 {
   "name": "maid",
-  "description": "maid",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "",
   "main": "sbot.js",
   "scripts": {
     "start": "node sbot.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "11.1.0",
+    "discord.js": "^11.2.1"
   }
 }
