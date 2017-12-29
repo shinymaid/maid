@@ -1,12 +1,13 @@
 {
-  "name": "maid",
-  "version": "8.0.0",
-  "description": "maid",
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
   "main": "sbot.js",
   "scripts": {
     "start": "node sbot.js"
   },
   "dependencies": {
-    "discord.js": "11.2.1"
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
   }
 }
